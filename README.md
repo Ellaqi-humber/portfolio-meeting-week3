@@ -19,4 +19,6 @@ Deployment info
 
 Addition
 ---------
-Want to use React360 to achieve VR effect for the index page of the portfolio
+1. Want to use React360 to achieve VR effect for the index page of the portfolio
+2. The second fixed project almost finished polished, description part done:
+   [Q.E.Clock](https://github.com/Ellaqi-tech/Q.E.Clock)
