@@ -9,7 +9,7 @@ Built with jQuery, CSS3, HTML from scratch, no frameworks.
 
 Live URL 
 --------
-pending (current wordpress blog: [ellaqi.com](https://ellaqi.com/))
+https://pokemongame.ellaqi.com
 
 Deployment info
 ----------------
